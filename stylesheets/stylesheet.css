@@ -182,35 +182,35 @@ h1 sub
 {
 	position: absolute;
 	top: 100%;
-	-webkit-animation: scroll 200s linear 4s infinite;
-	-moz-animation: scroll 200s linear 4s infinite;
-	-ms-animation: scroll 200s linear 4s infinite;
-	-o-animation: scroll 200s linear 4s infinite;
-	animation: scroll 200s linear 4s infinite;
+	-webkit-animation: scroll 500s linear 4s infinite;
+	-moz-animation: scroll 500s linear 4s infinite;
+	-ms-animation: scroll 500s linear 4s infinite;
+	-o-animation: scroll 500s linear 4s infinite;
+	animation: scroll 500s linear 4s infinite;
 }
 
 /* animation */
 @-webkit-keyframes scroll {
 	0% { top: 100%; }
-	100% { top: -170%; }
+	100% { top: -670%; }
 }
 
 @-moz-keyframes scroll {
 	0% { top: 100%; }
-	100% { top: -170%; }
+	100% { top: -670%; }
 }
 
 @-ms-keyframes scroll {
 	0% { top: 100%; }
-	100% { top: -170%; }
+	100% { top: -670%; }
 }
 
 @-o-keyframes scroll {
 	0% { top: 100%; }
-	100% { top: -170%; }
+	100% { top: -670%; }
 }
 
 @keyframes scroll {
 	0% { top: 100%; }
-	100% { top: -170%; }
+	100% { top: -670%; }
 }
