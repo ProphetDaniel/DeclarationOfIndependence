@@ -10,3 +10,4 @@ Finished:
 Under development:
 - [(edit)](https://github.com/ProphetDaniel/DeclarationOfIndependence/blob/gh-pages/de/index.html). Result: [https://prophetdaniel.github.io/DeclarationOfIndependence/de/](https://prophetdaniel.github.io/DeclarationOfIndependence/de)
 - [(edit)](https://github.com/ProphetDaniel/DeclarationOfIndependence/blob/gh-pages/cn-cn/index.html). Result: [https://prophetdaniel.github.io/DeclarationOfIndependence/cn-cn/](https://prophetdaniel.github.io/DeclarationOfIndependence/cn-cn/)
+- [(edit)](https://github.com/ProphetDaniel/DeclarationOfIndependence/blob/gh-pages/jp/index.html). Result: [https://prophetdaniel.github.io/DeclarationOfIndependence/cn-cn/](https://prophetdaniel.github.io/DeclarationOfIndependence/jp/)
