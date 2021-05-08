@@ -1,4 +1,5 @@
 # Star Wars Style - Ethereum Classic - Declaration Of Independence
+Original English document for reference [here](https://ethereumclassic.github.io/assets/ETC_Declaration_of_Independence.pdf).
 Show the Declaration of Independence in a Star Wars scrolling style
 
 Finished:
