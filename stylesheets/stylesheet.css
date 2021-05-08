@@ -192,25 +192,25 @@ h1 sub
 /* animation */
 @-webkit-keyframes scroll {
 	0% { top: 100%; }
-	100% { top: -670%; }
+	100% { top: -770%; }
 }
 
 @-moz-keyframes scroll {
 	0% { top: 100%; }
-	100% { top: -670%; }
+	100% { top: -770%; }
 }
 
 @-ms-keyframes scroll {
 	0% { top: 100%; }
-	100% { top: -670%; }
+	100% { top: -770%; }
 }
 
 @-o-keyframes scroll {
 	0% { top: 100%; }
-	100% { top: -670%; }
+	100% { top: -770%; }
 }
 
 @keyframes scroll {
 	0% { top: 100%; }
-	100% { top: -670%; }
+	100% { top: -770%; }
 }
