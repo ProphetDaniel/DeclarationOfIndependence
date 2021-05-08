@@ -1,4 +1,4 @@
-# DeclarationOfIndependence
+# Star Wars Style - Ethereum Classic - Declaration Of Independence
 Show the Declaration of Independence in a Star Wars scrolling style
 
 Finished:
