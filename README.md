@@ -2,11 +2,11 @@
 Show the Declaration of Independence in a Star Wars scrolling style
 
 Finished:
-- [https://prophetdaniel.github.io/DeclarationOfIndependence/](https://prophetdaniel.github.io/DeclarationOfIndependence/)
-- [https://prophetdaniel.github.io/DeclarationOfIndependence/es-es/](https://prophetdaniel.github.io/DeclarationOfIndependence/es-es/)
-- [https://prophetdaniel.github.io/DeclarationOfIndependence/pt-br/](https://prophetdaniel.github.io/DeclarationOfIndependence/pt-br/)
-- [https://prophetdaniel.github.io/DeclarationOfIndependence/ru-ru/](https://prophetdaniel.github.io/DeclarationOfIndependence/ru-ru/)
+- [edit](https://github.com/ProphetDaniel/DeclarationOfIndependence/blob/gh-pages/index.html) [https://prophetdaniel.github.io/DeclarationOfIndependence/](https://prophetdaniel.github.io/DeclarationOfIndependence/)
+- [edit](https://github.com/ProphetDaniel/DeclarationOfIndependence/blob/gh-pages/es-es/index.html) [https://prophetdaniel.github.io/DeclarationOfIndependence/es-es/](https://prophetdaniel.github.io/DeclarationOfIndependence/es-es/)
+- [edit](https://github.com/ProphetDaniel/DeclarationOfIndependence/blob/gh-pages/pt-br/index.html) [https://prophetdaniel.github.io/DeclarationOfIndependence/pt-br/](https://prophetdaniel.github.io/DeclarationOfIndependence/pt-br/)
+- [edit](https://github.com/ProphetDaniel/DeclarationOfIndependence/blob/gh-pages/ru-ru/index.html) [https://prophetdaniel.github.io/DeclarationOfIndependence/ru-ru/](https://prophetdaniel.github.io/DeclarationOfIndependence/ru-ru/)
 
 Under development:
-- [https://prophetdaniel.github.io/DeclarationOfIndependence/de/](https://prophetdaniel.github.io/DeclarationOfIndependence/de)
-- [https://prophetdaniel.github.io/DeclarationOfIndependence/cn-cn/](https://prophetdaniel.github.io/DeclarationOfIndependence/cn-cn/)
+- [edit](https://github.com/ProphetDaniel/DeclarationOfIndependence/blob/gh-pages/de/index.html) [https://prophetdaniel.github.io/DeclarationOfIndependence/de/](https://prophetdaniel.github.io/DeclarationOfIndependence/de)
+- [edit](https://github.com/ProphetDaniel/DeclarationOfIndependence/blob/gh-pages/cn-cn/index.html) [https://prophetdaniel.github.io/DeclarationOfIndependence/cn-cn/](https://prophetdaniel.github.io/DeclarationOfIndependence/cn-cn/)
